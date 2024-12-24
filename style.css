@@ -1,0 +1,51 @@
+h1{
+    font-size: 60px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 70px;
+}
+
+h3{
+    font-size: 40px;
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+}
+
+table, th, td{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+p{
+    font-size: 36px;
+}
+
+#page{
+    background-color: #cdb4db;
+}
+
+#signup, #login{
+    background-color: #a2d2ff;
+}
+
+#signForm, #loginForm{
+    font-weight: bold;
+    padding: 50px;
+}
+
+#signButton, #loginButton{
+    background-color: #ffafcc;
+}
+
+#box1, #box2, #box3, #box4{
+    border: 3px solid black;
+    background-color: #bde0fe
+}
